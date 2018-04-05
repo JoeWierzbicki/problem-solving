@@ -5,17 +5,17 @@ A. There are 4 main steps in making a PB and J.
 1. Collecting the ingredients/tools.
   - Peanut Butter
   - Jelly
-  - bread
-  - butter knife
+  - Bread
+  - Butter knife
 2. Applying The ingredients.
   - Use the butter knife
   - Apply peanut butter to one slice of bread
   - Apply jelly to another slice of bread
 3. Cleanup.
-  - replace peanut butter, jelly and bread
-  - clean knife and put away
+  - Replace peanut butter, jelly and bread
+  - Clean knife and put away
 4. Eat your sandwich
-  - enjoy  
+  - Enjoy  
 
 
 
@@ -26,7 +26,7 @@ A. Work backwards. First find out if the user clicked the button. If they did, t
 What would the roadmap for narrowing down the Say Hi problem look like?
 
 A. Say HI --> User button click --> User name input
-    1st           2nd                    last
+
 
 Create a problem-solving example using a roadmap and the process of elimination for narrowing down issues of your own. You already use this skill daily. Break down and explain a problem you solve in your everyday life.
 
