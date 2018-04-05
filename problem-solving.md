@@ -30,7 +30,7 @@ A. Say HI --> User button click --> User name input
 
 Create a problem-solving example using a roadmap and the process of elimination for narrowing down issues of your own. You already use this skill daily. Break down and explain a problem you solve in your everyday life.
 
-Road map to buying luxury items
+Road map to buying luxury items.
 Work --> Get paid --> Pay bills --> Buy luxury item
 
 Troubleshooting to see why I cannot buy luxury item.
