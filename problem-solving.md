@@ -33,5 +33,6 @@ Create a problem-solving example using a roadmap and the process of elimination 
 Road map to buying luxury items
 Work --> Get paid --> Pay bills --> Buy luxury item
 
-Troubleshooting to see why I cannot buy luxury item
+Troubleshooting to see why I cannot buy luxury item.
+
 Can I afford to buy this item? --> Are my bills paid? --> Did I get paid? --> Did I work?
